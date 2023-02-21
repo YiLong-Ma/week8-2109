@@ -1,0 +1,34 @@
+.text{
+    display: flex;
+    justify-content:space-around;
+    font-size: 3em;
+    padding: 0%;
+    margin: 0%;
+}
+.div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: #ff8670;
+    color: #fff;
+    padding: 0%;
+    margin: 0%;
+
+}
+.text2{
+    display: flex;
+    justify-content:space-around;
+    font-size: 3em;
+    padding: 0%;
+    margin: 0%;
+}
+.text3{
+    display: flex;
+    justify-content:center;
+    font-size: 3em;
+    padding: 0%;
+    margin: 0%;
+}
